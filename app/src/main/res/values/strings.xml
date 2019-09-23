@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="title_activity_start">MemoryGame</string>
+    <string name="MemoryTitle">Memory \nGame</string>
+    <string name="startButtonText">START!</string>
+    <string name="number_of_matches">Number of Matches</string>
+    <string name="shuffle_button_text">Shuffle</string>
+    <string name="sample_text">sample</string>
+
+    <string-array name="match_number">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="column_numbers">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>
